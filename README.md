@@ -1,5 +1,5 @@
 # Handwritten-Text-Recognition
-Trained a Machine Learning Model to recognize handwritten English words. Used CNN layers for extracting relevant features from the image, LSTM to propogate information throughout the text sequence, and finally used CTC(Connectionist Temporal Classification) loss to find the highest probability alignment between input and target.
+Trained a Machine Learning Model to recognize handwritten English words. Used CNN layers for extracting relevant features from the image, LSTM to propogate information throughout the text sequence, and finally CTC(Connectionist Temporal Classification) loss to find the highest probability alignment between input and target.
 
 ## Dataset : IAM Handwriting Dataset
 The IAM Handwriting Database contains forms of handwritten English text. Given below is the structure of data
